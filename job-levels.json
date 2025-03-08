@@ -1,0 +1,55 @@
+{
+    "Student": ["intern", "trainee", "student", "apprentice", "scholar", "entry trainee", "internship", "fellow"],
+    
+    "Junior Specialist": ["junior", "entry-level", "associate", "beginner", "new hire", "fresher", "assistant specialist"],
+    
+    "Assistant": ["assistant", "aide", "support staff", "associate assistant", "coordinator", "secretary", "clerk", "executive assistant"],
+    
+    "Specialist": [
+        "specialist", "engineer", "analyst", "expert", "developer", "programmer",
+        "technician", "consultant", "researcher", "scientist", "advisor", "strategist",
+        "technologist", "implementation specialist", "solutions architect"
+    ],
+    
+    "Sr Specialist": [
+        "senior", "lead", "principal", "sr", "staff engineer", "staff scientist",
+        "staff consultant", "lead developer", "senior consultant", "senior engineer",
+        "senior analyst", "senior specialist", "senior advisor", "senior researcher",
+        "technical lead", "senior software engineer", "sr software developer"
+    ],
+    
+    "Manager": [
+        "manager", "head", "supervisor", "team lead", "team leader", "operations lead",
+        "project manager", "product manager", "scrum master", "practice manager",
+        "business manager", "marketing manager", "engineering manager",
+        "account manager", "logistics manager", "service delivery manager"
+    ],
+    
+    "Director": [
+        "director", "senior manager", "business unit head", "operations director",
+        "strategy director", "marketing director", "engineering director",
+        "regional director", "global director", "managing director", "executive director",
+        "director of operations", "director of finance", "creative director"
+    ],
+    
+    "VP": [
+        "vice president", "vp", "senior vp", "executive vp", "regional vp",
+        "global vp", "vp of engineering", "vp of sales", "vp of operations",
+        "associate vice president", "assistant vice president", "vp of strategy",
+        "vp of finance", "vp of marketing", "vp of growth"
+    ],
+    
+    "C-Level": [
+        "chief", "cfo", "ceo", "coo", "cto", "cio", "cso", "cdo", "chief data officer",
+        "chief product officer", "chief marketing officer", "chief revenue officer",
+        "chief innovation officer", "chief growth officer", "chief financial officer",
+        "chief strategy officer", "chief operations officer", "chief business officer",
+        "chief experience officer", "chief risk officer", "chief information security officer"
+    ],
+    
+    "Founder/Owner": [
+        "founder", "owner", "co-founder", "entrepreneur", "startup founder",
+        "business owner", "startup ceo", "company owner", "sole proprietor",
+        "small business owner", "founding partner", "managing owner", "principal owner"
+    ]
+}

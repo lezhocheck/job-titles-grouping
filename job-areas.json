@@ -1,0 +1,113 @@
+{
+    "Finance": [
+        "accountant", "finance", "auditor", "investment", "bank", "financial analyst",
+        "controller", "treasury", "credit"
+    ],
+    "Engineering": [
+        "engineer", "mechanical", "electrical", "civil", "chemical", "structural",
+        "industrial", "petroleum", "automation"
+    ],
+    "IT": [
+        "developer", "programmer", "software", "data", "machine learning", "ai",
+        "cybersecurity", "cloud", "database", "systems administrator", "devops"
+    ],
+    "Healthcare": [
+        "nurse", "doctor", "medical", "pharmacist", "dentist", "surgeon",
+        "therapist", "clinical", "healthcare", "psychologist"
+    ],
+    "Marketing": [
+        "marketing", "advertising", "brand", "sales", "seo", "digital marketing",
+        "content", "social media", "communications", "product marketing"
+    ],
+    "Education": [
+        "teacher", "professor", "lecturer", "education", "academic",
+        "instructor", "trainer", "coach"
+    ],
+    "Human Resources": [
+        "hr", "recruiter", "talent", "people", "human resources",
+        "compensation", "benefits", "payroll"
+    ],
+    "Operations": [
+        "operations", "logistics", "supply chain", "procurement",
+        "inventory", "production", "warehouse", "distribution"
+    ],
+    "Legal": [
+        "lawyer", "attorney", "legal", "paralegal", "compliance",
+        "counsel", "contract", "regulatory"
+    ],
+    "Customer Support": [
+        "support", "customer service", "client relations",
+        "technical support", "helpdesk"
+    ],
+    "Administration": [
+        "administrative", "admin", "executive assistant",
+        "office manager", "secretary", "receptionist"
+    ],
+    "Design": [
+        "designer", "graphic", "ui", "ux", "creative", "product design",
+        "interior", "fashion", "visual"
+    ],
+    "Construction": [
+        "construction", "site manager", "architect", "contractor",
+        "building inspector", "foreman"
+    ],
+    "Real Estate": [
+        "real estate", "property manager", "leasing", "realty",
+        "broker", "appraiser"
+    ],
+    "Manufacturing": [
+        "manufacturing", "assembler", "production", "machinist",
+        "quality control", "fabrication"
+    ],
+    "Media": [
+        "media", "journalist", "editor", "content writer", "producer",
+        "videographer", "photographer"
+    ],
+    "Science & Research": [
+        "scientist", "researcher", "lab", "research associate",
+        "biologist", "chemist", "physicist"
+    ],
+    "Consulting": [
+        "consultant", "strategy", "management consulting", "advisor",
+        "analyst"
+    ],
+    "Retail": [
+        "retail", "store manager", "sales associate", "cashier",
+        "merchandiser", "buyer"
+    ],
+    "Transportation": [
+        "driver", "pilot", "transportation", "dispatcher",
+        "fleet manager", "airline", "railroad"
+    ],
+    "Hospitality & Tourism": [
+        "hotel", "restaurant", "chef", "cook", "server",
+        "tourism", "hospitality", "travel agent"
+    ],
+    "Energy & Utilities": [
+        "energy", "utilities", "electrician", "technician",
+        "power plant", "renewable energy", "oil", "gas"
+    ],
+    "Agriculture & Forestry": [
+        "agriculture", "farmer", "forestry", "horticulture",
+        "agronomist", "livestock", "fisheries"
+    ],
+    "Arts & Entertainment": [
+        "artist", "actor", "musician", "performer", "curator",
+        "arts", "entertainment", "event manager"
+    ],
+    "Security": [
+        "security", "guard", "officer", "investigator",
+        "loss prevention"
+    ],
+    "Public Relations": [
+        "public relations", "pr", "communications", "press officer",
+        "spokesperson"
+    ],
+    "Government": [
+        "government", "civil servant", "policy", "public sector",
+        "diplomat", "political advisor"
+    ],
+    "Nonprofit": [
+        "nonprofit", "ngo", "charity", "fundraising", "outreach"
+    ]
+}

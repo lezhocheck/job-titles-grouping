@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+cache/*
+!cache/.gitkeep
+!cache/best_model.pth
+!cache/encoders.pkl
+!cache/sample.csv
